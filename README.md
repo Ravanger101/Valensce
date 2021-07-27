@@ -15,7 +15,7 @@
 <h4 align="center"><a href="https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html">Here's</a> a website about me and my pets. <br><hr></h4>
 
 <p align="center">
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
+	<a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
 	<a href="https://github.com/Brizyyy"><img src="https://img.shields.io/badge/Shoutout%20to-Brianna-purple"></a> <!--Shoutout for Brianna!-->
@@ -35,23 +35,23 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel%20Lifu-grey?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/Apple-Isabel%20Lifu-99A5FF?logo=apple"> </a><!--Apple-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/Discord--%E2%88%AF%E6%88%91%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E2%8A%89%E2%8A%B73520-333?logo=discord"> </a><!--Discord-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> </a><!--CSS-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> </a><!--Dreamweaver-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft%20Excel"> </a><!--Excel-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> </a><!--GitHub-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Grammarly-333333?style=flat&logo=Grammarly"> </a><!--Grammarly-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> </a><!--HTML-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> </a><!--JavaScript-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> </a><!--Khan Academy-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> </a><!--OneDrive-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> </a><!--Pokémon-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> </a><!--Python-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Tampermonkey-333333?style=flat&logo=Tampermonkey"> </a><!--Tampermonkey-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=Windows"> </a><!--Windows-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Apple-Isabel%20Lifu-99A5FF?logo=apple"> </a><!--Apple-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Discord--%E2%88%AF%E6%88%91%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E2%8A%89%E2%8A%B73520-333?logo=discord"> </a><!--Discord-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> </a><!--CSS-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> </a><!--Dreamweaver-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft%20Excel"> </a><!--Excel-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> </a><!--GitHub-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Grammarly-333333?style=flat&logo=Grammarly"> </a><!--Grammarly-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> </a><!--HTML-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> </a><!--JavaScript-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> </a><!--Khan Academy-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> </a><!--OneDrive-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> </a><!--Pokémon-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> </a><!--Python-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Tampermonkey-333333?style=flat&logo=Tampermonkey"> </a><!--Tampermonkey-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=Windows"> </a><!--Windows-->
 </p>
 
 </p>
@@ -69,19 +69,19 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=egoist&column=6&theme=dracula"></a><br><br> <!--Trophies-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=♡%20Isabel%20Lifu%20♡%27s%20GitHub%20Stats"></a><br><br>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egoist&theme=tokyonight"></a><br><br>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=egoist&column=6&theme=dracula"></a><br><br> <!--Trophies-->
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=♡%20Isabel%20Lifu%20♡%27s%20GitHub%20Stats"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egoist&theme=tokyonight"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
 </p>
 <hr>
 <details><summary><h3 align="center"> School projects for <a href="https://github.com/digital-technologies">Mr Henley</a></h3></summary>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
+	<a href="https://github.com/Valensce/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
+	<a href="https://github.com/Valensce/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </details>
 <hr>
-<details><summary>About <a href="https://github.com/Isabel-Lifu-211207-XPrado">Me</a></summary>
+<details><summary>About <a href="https://github.com/Valensce">Me</a></summary>
 <hr>
 <h4>Date of Birth: 21st December 2007<br>
 Birth Place: <a href="https://www.google.com/maps/place/Sunnybank+Private+Hospital/">Sunnybank Private Hospital</a>, Brisbane, Australia<br>
@@ -93,7 +93,7 @@ Fun fact: I skipped year eight in 2021!</h4>
 <hr>
 </details>
 
-<details><summary>About <a href="https://github.com/Isabel-Lifu-211207-XPrado">Prado</a> (who thinks he's a human)</summary>
+<details><summary>About <a href="https://github.com/Valensce">Prado</a> (who thinks he's a human)</summary>
 <hr>
 <h4>Breed: <a href="https://dogtime.com/dog-breeds/golden-retriever/">Golden Retriever</a><br>
 Species: Canis lupus familiaris (Dog)<br>
@@ -106,7 +106,7 @@ so we called him Prado too XD</h4>
 <hr>
 </details>
 
-<details><summary>About <a href="https://github.com/Isabel-Lifu-211207-XPrado">Sylvia</a> (who also thinks she's a human)</summary>
+<details><summary>About <a href="https://github.com/Valensce">Sylvia</a> (who also thinks she's a human)</summary>
 <hr>
 <h4>Breed: <a href="https://thehappypuppysite.com/sable-german-shepherd/">Sable German Shepherd</a><br>
 Species: Canis lupus familiaris (Dog)<br>
@@ -173,15 +173,15 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 	</details>
 <hr>
 
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you this hilarious repo => Click <a href="https://github.com/Isabel-Lifu-211207-XPrado/Prados-Aquarium">here</a></details></details><hr>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
 
 - [ ] I've read about your dogs somewhere before and they're ♡♡♡!
 - [ ] I would like to see more about your dogs in a public repo
-- [ ] Please follow <a href="https://github.com/isabel-lifu-211207-xprado">meh</a> 😎
+- [ ] Please follow <a href="https://github.com/Valensce">meh</a> 😎
 </div>
 
 <h3 align=center>I love you all so much!!! Thank you for reading my profile!!</h3>
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Isabel-Lifu-211207-xprado&theme=github">
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
 <hr>
 <details><summary>Bonus</summary>
 <br>YOU ARE A PRADO! <br><hr>
