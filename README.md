@@ -12,7 +12,7 @@
 ╚══╩══╩╝╚╩══╩══╩═╝╚═══╩╝╚╝╚══╝<br>
 </p>
 <img src="Streaks.png" width="100%">
-<h4 align="center"><a href="https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html">Here's</a> a website about me and my pets. <br><hr></h4>
+<h4 align="center"><a href="https://valensce.github.io/T1-HTML-Assignment/About_the_author.html">Here's</a> a website about me and my pets. <br><hr></h4>
 
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
@@ -198,6 +198,10 @@ Most ions have the same electron arrangement as the noble gas (group 18 element)
 	https://user-images.githubusercontent.com/79883837/124372620-f5ca9480-dcce-11eb-8b8c-9d75bb265eaa.png
 	https://user-images.githubusercontent.com/79883837/124372628-ffec9300-dcce-11eb-893e-30614f451c10.png
 	</details>
+</details>
+<hr>
+<details><summary>More fun</summary><br>
+https://github.com/Valensce/ProvingTrigonometricIdentitiesUsingComplexNumbers (my edited version of StackExchange)
 </details>
 <hr>
 <details><summary>Did you know</summary><br>
