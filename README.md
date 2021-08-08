@@ -22,17 +22,17 @@
 	<br> <h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br></h3>
 	<p align="center"><h3 align="center">Supporters:<br></h3>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
-	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-Hacking--Mudkip-333333?style-flat&logo=github"></a> <!--Natascha-->
-	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a> <!--Jeremy-->
+	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-Natascha-333333?style-flat&logo=github"></a> <!--Natascha-->
+	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Snow-333333?style-flat&logo=github"></a> <!--Jeremy-->
 	<a href="https://github.com/valerimatical"><img src="https://img.shields.io/badge/-Valerimatical-333333?style-flat&logo=github"></a> <!--Valerie-->
 	<a href="https://github.com/SuperNova7"><img src="https://img.shields.io/badge/-SuperNova7-333333?style-flat&logo=github"></a> <!--Supernova7-->
 	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a> <!--Mr. Henley-->
 	<a href="https://github.com/specialist-mathematics"><img src="https://img.shields.io/badge/-Specialist--Mathematics-333333?style-flat&logo=github"></a> <!--SM-->
-	<a href="https://github.com/teethtastegood"><img src="https://img.shields.io/badge/-Teethtastegood-333333?style-flat&logo=github"></a> <!--Charlotte-->
-	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-Brizyyy-333333?style-flat&logo=github"></a> <!--Brianna-->
-	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-LaHonathon-333333?style-flat&logo=github"></a> <!--Lh(n)-->
-	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-MuLKy--Bot-333333?style-flat&logo=github"></a> <!--Samuel-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel%20Lifu-grey?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
+	<a href="https://github.com/teethtastegood"><img src="https://img.shields.io/badge/-Charlotte-333333?style-flat&logo=github"></a> <!--Charlotte-->
+	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-Brianna-333333?style-flat&logo=github"></a> <!--Brianna-->
+	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-Lh(n)-333333?style-flat&logo=github"></a> <!--Lh(n)-->
+	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-Samuel-333333?style-flat&logo=github"></a> <!--Samuel-->
+	<a href="https://github.com/Valensce"><img src="https://img.shields.io/badge/By-Isabel%20Valence-grey?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Apple-Isabel%20Lifu-99A5FF?logo=apple"> </a><!--Apple-->
@@ -79,6 +79,7 @@
 <details><summary><h3 align="center"> School projects for <a href="https://github.com/digital-technologies">Mr Henley</a></h3></summary>
 	<a href="https://github.com/Valensce/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Valensce/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
+	<a href="https://github.com/Valensce/JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=JavaScript&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </details>
 <hr>
 <details><summary>About <a href="https://github.com/Valensce">Me</a></summary>
@@ -176,7 +177,7 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 <details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
 
 - [ ] I've read about your dogs somewhere before and they're ♡♡♡!
-- [ ] I would like to see more about your dogs in a public repo
+- [ ] I would love to see more about your dogs in a public repo
 - [ ] Please follow <a href="https://github.com/Valensce">meh</a> 😎
 </div>
 
