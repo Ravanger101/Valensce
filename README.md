@@ -1,6 +1,6 @@
 <img src="Streaks0.png" width="100%">
 <h1 align="center"> ♡ 𝓘𝓼𝓪𝓫𝓮𝓵 ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷ 𝓛𝓲𝓯𝓾 ♡</h1>
-<h3 align="center">Welcome to my profile!</h3><hr>
+<h3 align="center">Welcome to my profile! Become a part of my official <a href="https://discord.gg/PBfu7XHAwH">Discord server!</a></h3><hr>
 <div align="center"> 
 <h3>
 <p align="center">
@@ -36,7 +36,7 @@
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Apple-Isabel%20Lifu-99A5FF?logo=apple"> </a><!--Apple-->
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Discord--%E2%9B%A7%E2%98%BE%E2%99%A1%E2%99%95%20%F0%9D%95%8D%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%94%F0%9D%95%96%20%F0%9D%93%94%F0%9D%93%B5%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%B7%20%E2%99%94%E2%9C%A7%E2%98%BD%E2%9D%85[hashtag]3520-333?logo=discord"> </a><!--Discord-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Discord%20--%20%F0%9D%95%8D%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%94%F0%9D%95%96%20%F0%9D%93%94%F0%9D%93%B5%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%B7[hashtag]3520-333?logo=discord"> </a><!--Discord-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> </a><!--CSS-->
