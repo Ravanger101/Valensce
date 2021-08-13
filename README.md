@@ -132,6 +132,10 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 		Jeremy Tsai! A true friend whom I appreciate.
 	</details>
 	<hr>
+	<details><summary>About <a href="https://github.com/JBYT27/">Aspirin</a></summary>
+		
+	</details>
+	<hr>
 	<details><summary>About <a href="https://github.com/supernova7/">Supernova7</a></summary>
 		Supernova7! An anonymous user who contributes in many of our private repositories.
 	</details>
@@ -148,12 +152,39 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 		Lh(n)! Yes, the one from XPaVilion!
 	</details>
 	<hr>
+	<details><summary>About <a href="https://github.com/porsce/">Porscerado</a></summary>
+		My lil bot made to follow my followers!
+	</details>
+	<hr>
 	<details><summary>About <a href="https://github.com/Mulky-bot/">MuLKy bot</a></summary>
 		Samuel Garay! He is not a bot LOL
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/digital-technologies/">Digital Technologies</a></summary>
 		Mr. J Henley! #Cool #BestTeacher #PassionateForOurFutures #WillingToHelpOut
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/Nones2003/">Nones2003</a></summary>
+		
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/Grandy2827/">Grand</a></summary>
+		
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/lucasbtw/">Lucas</a></summary>
+		
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/Mayann77/">Mayan</a></summary>
+		
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/typehrishi/">Hrishi</a></summary>
+		
+	</details>
+	<details><summary>About <a href="https://github.com/not-aayush/">Aayush</a></summary>
+		
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/valerimatical/">Valerimatical</a></summary>
