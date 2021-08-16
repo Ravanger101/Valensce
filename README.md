@@ -167,7 +167,6 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/Grandy2827/">Grand</a></summary>
-		</details>
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/lucasbtw/">Lucas</a></summary>
