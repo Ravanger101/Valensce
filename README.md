@@ -133,7 +133,6 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/JBYT27/">Aspirin</a></summary>
-		
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/supernova7/">Supernova7</a></summary>
@@ -164,27 +163,23 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 		Mr. J Henley! #Cool #BestTeacher #PassionateForOurFutures #WillingToHelpOut
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/Nones2003/">Nones2003</a></summary>
-		
+	<details><summary>About <a href="https://github.com/Nones2003/">Nones2003</a></summary>	
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/Grandy2827/">Grand</a></summary>
-		
+		</details>
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/lucasbtw/">Lucas</a></summary>
-		
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/Mayann77/">Mayan</a></summary>
-		
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/typehrishi/">Hrishi</a></summary>
-		
 	</details>
-	<details><summary>About <a href="https://github.com/not-aayush/">Aayush</a></summary>
-		
+	<hr>
+	<details><summary>About <a href="https://github.com/not-aayush/">Aayush</a></summary>	
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/valerimatical/">Valerimatical</a></summary>
