@@ -81,7 +81,7 @@
 	
 - 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
 
-- 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of my work is done in [Desmos](https://www.desmos.com/calculator/wdnrf65gtc)! 
+- 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of my work is done in [Desmos](https://www.desmos.com/calculator/oyk4cmvkb0)! 
 
 - 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
 
