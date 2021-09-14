@@ -1,6 +1,6 @@
 <img src="Streaks0.png" width="100%">
 <h1 align="center"> <details><summary>𝕍𝕒𝕝𝕖𝕟𝕔𝕖 𝓔𝓵𝓮𝓬𝓽𝓻𝓸𝓷 #3520</summary><br><h3 align="center"> ♡ 𝓘𝓼𝓪𝓫𝓮𝓵 ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷ 𝓛𝓲𝓯𝓾 ♡</h3></details></h1>
-<h2 align="center">Welcome to my profile! Become a part of my official <a href="https://discord.gg/PBfu7XHAwH">Discord server!</a></h2>
+<h2 align="center">Welcome to my profile! Become a part of my official <a href="https://discord.gg/aRvYasjjwM">Discord server!</a></h2>
 <div align="center"> 
 <h3>
 <h3 align="center">
