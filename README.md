@@ -1,6 +1,6 @@
 <img src="Streaks0.png" width="100%">
 <h1 align="center"> <details><summary>♔ Valensce ♡#3520</summary><br><h3 align="center"> ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷</h3></details></h1>
-<h2 align="center">Welcome to my profile! Become a part of my official <a href="https://discord.gg/aRvYasjjwM">Discord server!</a></h2>
+<h2 align="center">Welcome to my profile! Become a part of my official <a href="https://discord.gg/aRvYasjjwM">Discord server!</a></h2><br>
 <div align="center"> 
 
 <img src="Streaks.png" width="100%">
