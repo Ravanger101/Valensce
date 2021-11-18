@@ -61,7 +61,7 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=egoist&column=6&theme=dracula"></a><br><br> <!--Trophies-->
+	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=♡%20Isabel%20Lifu%20♡%27s%20GitHub%20Stats"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egoist&theme=tokyonight"></a><br><br>
