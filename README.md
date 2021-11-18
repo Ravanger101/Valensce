@@ -24,13 +24,12 @@
 	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-Brianna-333333?style-flat&logo=github"></a> <!--Brianna-->
 	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-Lh(n)-333333?style-flat&logo=github"></a> <!--Lh(n)-->
 	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-Samuel-333333?style-flat&logo=github"></a> <!--Samuel-->
-	<a href="https://github.com/Valensce"><img src="https://img.shields.io/badge/By-Isabel%20Valence-grey?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Apple-Isabel%20Lifu-99A5FF?logo=apple"> </a><!--Apple-->
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Discord%20--%20%F0%9D%95%8D%F0%9D%95%92%F0%9D%95%9D%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%94%F0%9D%95%96%20%F0%9D%93%94%F0%9D%93%B5%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%B7[hashtag]3520-333?logo=discord"> </a><!--Discord-->
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Apple-Valensce%20<3-99A5FF?logo=apple"> </a><!--Apple-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/♔%20Valensce%20♡[hashtag]3520-333?logo=discord"> </a><!--Discord-->
+	<a href="https://atom.io">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
+	<a href="https://download-chromium.appspot.com">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> </a><!--CSS-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> </a><!--Dreamweaver-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft%20Excel"> </a><!--Excel-->
@@ -38,7 +37,8 @@
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Grammarly-333333?style=flat&logo=Grammarly"> </a><!--Grammarly-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> </a><!--HTML-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> </a><!--JavaScript-->
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> </a><!--Khan Academy-->
+	<a href="https://www.khanacademy.org/profile/kaid_378720445388893190837084/">	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> </a><!--Khan Academy-->
+	<a href="https://open.spotify.com/user/8jsmxggsn2pqgcphminrgxxwf?si=7ac5c3a7a1a2428b"><img src="https://img.shields.io/badge/-♔%20Valensce%20♡-333333?style-flat&logo=spotify"></a> <!--I am an entrepreneur!-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> </a><!--OneDrive-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> </a><!--Pokémon-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> </a><!--Python-->
@@ -74,18 +74,6 @@
 	<a href="https://github.com/Valensce/JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=JavaScript&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </details>
 <hr>
-<details><summary>About <a href="https://github.com/Valensce">Me</a></summary>
-<hr>
-<h4>Date of Birth: 21st December 2007<br>
-Birth Place: <a href="https://www.google.com/maps/place/Sunnybank+Private+Hospital/">Sunnybank Private Hospital</a>, Brisbane, Australia<br>
-Favourite subject: <a href="https://github.com/Specialist-Mathematics">Specialist Mathematics</a><br>
-Favourite topic: <a href="https://github.com/Specialist-Mathematics">Vector Calculus</a><br>
-Placing in family: First and only child<br>
-Pets: A Golden Retriever called Prado, A German Shepherd called Sylvia<br>
-Fun fact: I skipped year eight in 2021!</h4>
-<hr>
-</details>
-
 <details><summary>About <a href="https://github.com/Valensce">Prado</a> (who thinks he's a human)</summary>
 <hr>
 <h4>Breed: <a href="https://dogtime.com/dog-breeds/golden-retriever/">Golden Retriever</a><br>
