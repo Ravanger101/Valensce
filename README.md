@@ -49,14 +49,6 @@
 
 <div align="left">
 	
-- 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
-
-- 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of my work is done in [Desmos](https://www.desmos.com/calculator/oyk4cmvkb0)! 
-
-- 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
-
-- 🌱 I’m currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! I'm looking forward to learn how they can be applied in matrices!
-- 🏆 If you have any questions you can't solve within the year 11 [Specialist Mathematics](https://github.com/Specialist-Mathematics) curriculum for Queensland, ask [me](mailto:ba004745@bac.qld.edu.au) or [Prado](mailto:pradolifu@gmail.com)! 
 </div>
 
 <p align="center">
@@ -73,30 +65,6 @@
 	<a href="https://github.com/Valensce/JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=JavaScript&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </details>
 <hr>
-<details><summary>About <a href="https://github.com/Valensce">Prado</a> (who thinks he's a human)</summary>
-<hr>
-<h4>Breed: <a href="https://dogtime.com/dog-breeds/golden-retriever/">Golden Retriever</a><br>
-Species: Canis lupus familiaris (Dog)<br>
-Gender: Male <br>
-Date of birth: 23rd March 2019 (Almost 2 years old)<br>
-Birth Place: <a href="https://www.google.com/maps/place/Blue+Mountains/">Blue Mountains, Sydney, Australia</a><br>
-Love rate: 100% pure love <br>
-Name history: My family bought a 2019 Toyota Land Cruiser Prado right before buying him, <br>
-so we called him Prado too XD</h4>
-<hr>
-</details>
-
-<details><summary>About <a href="https://github.com/Valensce">Sylvia</a> (who also thinks she's a human)</summary>
-<hr>
-<h4>Breed: <a href="https://thehappypuppysite.com/sable-german-shepherd/">Sable German Shepherd</a><br>
-Species: Canis lupus familiaris (Dog)<br>
-Gender: Female<br>
-Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 15 weeks old!)<br>
-Birth Place: <a href="https://www.google.com/maps/place/Sunnybank/">Sunnybank, Brisbane, Australia</a><br>
-Love rate: 100% pure love<br>
-Name history: Her fur has a silverish lining on the outside (which gave me the motive to call her Sylvia!), visible in most lighting, except indoors - She turns brown XD</h4>
-<hr>
-</details>
 <details><summary>About my friends</summary>
 <hr>
 	<details><summary>About <a href="https://github.com/TurnipGuy30/">TurnipGuy30</a></summary>
@@ -178,38 +146,10 @@ Name history: Her fur has a silverish lining on the outside (which gave me the m
 	</details>
 <hr>
 
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Prado loves you! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
 
-- [ ] I've read about your dogs somewhere before and they're ♡♡♡!
-- [ ] I would love to see more about your dogs in a public repo
-- [ ] Please follow <a href="https://github.com/Valensce">meh</a> 😎
 </div>
-
-<h3 align=center>I love you all so much!!! Thank you for reading my profile!!</h3>
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
 <hr>
 <details><summary>Bonus</summary>
 <br>YOU ARE A PRADO! <br><hr>
-	<details><summary>Extras</summary><br>
-        Here are some links to my latest projects: <br>@https://www.desmos.com/calculator/jq45wqtbwj <br>@https://www.desmos.com/calculator/rt7ppxlzrt <br>@https://www.desmos.com/calculator/f4dz8fmr0j <br></details>
-</details>
-<hr>
-<details><summary> Fun fact of the day</summary>
-<br>
-Most ions have the same electron arrangement as the noble gas (group 18 element) that is closest to them on the periodic table.
-	<br><br>
-	<hr>
-	<details><summary>Education Perfect World Record!<br></summary><br>
-	https://user-images.githubusercontent.com/79883837/124372620-f5ca9480-dcce-11eb-8b8c-9d75bb265eaa.png
-	https://user-images.githubusercontent.com/79883837/124372628-ffec9300-dcce-11eb-893e-30614f451c10.png
-	</details>
-</details>
-<hr>
-<details><summary>More fun</summary><br>
-https://github.com/Valensce/ProvingTrigonometricIdentitiesUsingComplexNumbers (my edited version of StackExchange)
-</details>
-<hr>
-<details><summary>Did you know</summary><br>
-A series circuit is where all of the circuit components are joined together in a single loop. They are essentially in a line, with a current flowing through them consecutively. The current maintains the same strength all around the circuit. The voltage will vary around the circuit depending on the resistance of the components. There will be a larger voltage over a component with a higher resistance. The voltage of the energy users around the circuit can be added together to calculate how much voltage the battery or energy source is supplying to the circuit.
-</details>
-<hr>
