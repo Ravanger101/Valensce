@@ -1,17 +1,16 @@
 <img src="Streaks0.png" width="100%">
-<h1 align="center"> <details><summary>♔ Valensce ♡#3520</summary><br><h3 align="center"> ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷</h3></details></h1>
-<h2 align="center">Welcome to my profile! Become a part of my official <a href="https://discord.gg/aRvYasjjwM">Discord server!</a></h2><br>
+<h1 align="center"> <details><summary>︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿</summary><br><h3 align="center"> ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷</h3></details></h1>
+<h2 align="center">⌦ </a></h2><br>
 <div align="center"> 
 
 <img src="Streaks.png" width="100%">
-<h4 align="center"><a href="https://valensce.github.io/T1-HTML-Assignment/About_the_author.html">Here's</a> a website about me and my pets. <br><hr></h4>
 
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
 	<a href="https://github.com/Brizyyy"><img src="https://img.shields.io/badge/Shoutout%20to-Brianna-purple"></a> <!--Shoutout for Brianna!-->
-	<br> <h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br></h3>
+	<br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>
 	<p align="center"><h3 align="center">Supporters:<br></h3>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
 	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-Natascha-333333?style-flat&logo=github"></a> <!--Natascha-->
