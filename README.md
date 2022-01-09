@@ -6,10 +6,9 @@
 <img src="Streaks.png" width="100%">
 
 <p align="center">
-	<a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
+	<!-- out of order <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views--> -->
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
-	<a href="https://github.com/Brizyyy"><img src="https://img.shields.io/badge/Shoutout%20to-Brianna-purple"></a> <!--Shoutout for Brianna!-->
 	<br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>
 	<p align="center"><h3 align="center">Supporters:<br></h3>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
@@ -25,7 +24,7 @@
 	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-Samuel-333333?style-flat&logo=github"></a> <!--Samuel-->
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Apple-Valensce%20<3-99A5FF?logo=apple"> </a><!--Apple-->
+	<a href="https://apple.com/">	<img src="https://img.shields.io/badge/Apple-Valensce%20<3-99A5FF?logo=apple"> </a><!--Apple-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/♔%20Valensce%20♡[hashtag]3520-333?logo=discord"> </a><!--Discord-->
 	<a href="https://atom.io">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
 	<a href="https://download-chromium.appspot.com">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
